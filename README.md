@@ -10,3 +10,16 @@ https://guides.rubyonrails.org/getting_started.html
 https://guides.rubyonrails.org/ 
 
 https://api.rubyonrails.org/
+
+
+
+Necessary Installs to Start
+
+sudo apt install ruby
+
+http://railsinstaller.org/en
+
+https://rubyinstaller.org/downloads/
+
+
+
